@@ -10,6 +10,8 @@
 
 2- [Dynamic Member Lookup](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
 
+3- [Dynamic Callable](https://www.hackingwithswift.com/articles/134/how-to-use-dynamiccallable-in-swift)
+
 
 #### Structures
 [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
