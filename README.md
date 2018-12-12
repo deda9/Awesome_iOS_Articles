@@ -6,7 +6,8 @@
 
 
 #### Foundation
-[How to use NSSortDescriptor](https://nshipster.com/nssortdescriptor)
+1- [How to use NSSortDescriptor](https://nshipster.com/nssortdescriptor)
+2- [Dynamic Member Lookup](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
 
 
 #### Structures
