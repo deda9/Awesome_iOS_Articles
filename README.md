@@ -28,3 +28,9 @@
 
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
+
+
+#### Clean Code
+1- [Abstract third party libraries](https://benoitpasquier.com/abstract-ios-third-party-libraries)
+
+2- [Abstract event logger](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift)
