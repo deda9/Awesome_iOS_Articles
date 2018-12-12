@@ -11,3 +11,7 @@
 
 #### Structures
 [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
+
+
+#### Functional Programming
+[Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
