@@ -1,11 +1,15 @@
 # Awesome_iOS_Articles
 
-#### UIViews
+#### UIView
 1- [Restoring Your UI With State Restoration](https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration)
+
+2- [UIView layerClass, maskView and tintColor](https://www.iosdev.recipes/uiview/apis-you-forgot-layerclass-maskView-and-uitintadjustmentmode)
+
 
 
 #### UI Testing
 1- [Dynamic UI Testing HTTP Mocking](http://swiftpearls.com/dynamic-ui-testing-http-mocking.html)
+
 
 
 #### Foundation
@@ -16,8 +20,10 @@
 3- [Dynamic Callable](https://www.hackingwithswift.com/articles/134/how-to-use-dynamiccallable-in-swift)
 
 
+
 #### Structures
 1- [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
+
 
 
 #### Functional Programming
