@@ -1,10 +1,11 @@
 # Awesome_iOS_Articles
 
-#### UIView
+#### UIKit
 1- [Restoring Your UI With State Restoration](https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration)
 
 2- [UIView layerClass, maskView and tintColor](https://www.iosdev.recipes/uiview/apis-you-forgot-layerclass-maskView-and-uitintadjustmentmode)
 
+3- [Slot-based UI Views](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 
 
 #### UI Testing
