@@ -38,6 +38,8 @@
 
 2- [Abstract event logger](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift)
 
+3- [Dynamic Fonts](https://152percent.com/blog/2018/7/3/dynamic-font-api-swift)
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
