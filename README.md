@@ -20,6 +20,7 @@
 
 3- [Dynamic Callable](https://www.hackingwithswift.com/articles/134/how-to-use-dynamiccallable-in-swift)
 
+4- [What is @autoclosure](https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis)
 
 
 #### Structures
