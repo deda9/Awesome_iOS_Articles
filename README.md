@@ -42,6 +42,8 @@
 
 4- [The next button automatically](https://rolandleth.com/handling-the-next-button-automatically)
 
+5- [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors)
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
