@@ -40,6 +40,8 @@
 
 3- [Dynamic Fonts](https://152percent.com/blog/2018/7/3/dynamic-font-api-swift)
 
+4- [The next button automatically](https://rolandleth.com/handling-the-next-button-automatically)
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
