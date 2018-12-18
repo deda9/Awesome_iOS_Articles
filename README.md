@@ -28,6 +28,8 @@
 
 2- [POP Programming](https://developer.apple.com/videos/play/wwdc2016/419)
 
+3- [Service Locator](https://medium.com/@kenmarin_23370/dependency-injection-servicelocator-pattern-unit-testing-with-self-creating-mocks-in-swift-a303f4fc9f73)
+
 
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
