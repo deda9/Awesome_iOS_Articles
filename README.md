@@ -32,6 +32,8 @@
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
 
+2- [Techniques for a Functional Dependency Injection in Swift](https://medium.com/@foolonhill/techniques-for-a-functional-dependency-injection-in-swift-b9a6143634ab)
+
 
 #### Clean Code
 1- [Abstract third party libraries](https://benoitpasquier.com/abstract-ios-third-party-libraries)
