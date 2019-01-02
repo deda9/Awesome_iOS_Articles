@@ -48,6 +48,9 @@
 
 5- [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors)
 
+6- [Improving Optionals](http://www.russbishop.net/improving-optionals)
+
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
