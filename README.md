@@ -30,6 +30,8 @@
 
 3- [Service Locator](https://medium.com/@kenmarin_23370/dependency-injection-servicelocator-pattern-unit-testing-with-self-creating-mocks-in-swift-a303f4fc9f73)
 
+4- [Protocols erasure](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
+
 
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
