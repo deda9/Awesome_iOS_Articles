@@ -32,6 +32,8 @@
 
 4- [Protocols erasure](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
 
+5- [Dependency Injection](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
+
 
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
