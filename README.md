@@ -36,6 +36,8 @@
 
 6- [Pure Dependency Injection](https://github.com/devxoul/Pure)
 
+7- [Swift Import Declarations](https://nshipster.com/import/?utm_campaign)
+
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
 
