@@ -38,6 +38,8 @@
 
 7- [Swift Import Declarations](https://nshipster.com/import/?utm_campaign)
 
+8- [Protocols with `:` and `==`](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
+
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
 
