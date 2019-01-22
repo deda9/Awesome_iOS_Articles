@@ -28,17 +28,21 @@
 
 2- [POP Programming](https://developer.apple.com/videos/play/wwdc2016/419)
 
-3- [Service Locator](https://medium.com/@kenmarin_23370/dependency-injection-servicelocator-pattern-unit-testing-with-self-creating-mocks-in-swift-a303f4fc9f73)
+3- [Protocols erasure](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
 
-4- [Protocols erasure](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
+4- [Swift Import Declarations](https://nshipster.com/import/?utm_campaign)
 
-5- [Dependency Injection](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
+5- [Protocols with `:` and `==`](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
 
-6- [Pure Dependency Injection](https://github.com/devxoul/Pure)
+#### Dependency Injection
+1- [Service Locator](https://quickbirdstudios.com/blog/swift-dependency-injection-service-locators)
 
-7- [Swift Import Declarations](https://nshipster.com/import/?utm_campaign)
+2- [Service Locator](https://medium.com/@kenmarin_23370/dependency-injection-servicelocator-pattern-unit-testing-with-self-creating-mocks-in-swift-a303f4fc9f73)
 
-8- [Protocols with `:` and `==`](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
+3- [Dependency Injection](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
+
+4- [Pure Dependency Injection](https://github.com/devxoul/Pure)
+
 
 #### Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
