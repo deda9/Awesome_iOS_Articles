@@ -67,3 +67,7 @@
 
 #### Commands Line
 1- [Writing custom tools with Swift](https://paul-samuels.com/blog/2019/01/12/writing-custom-tools-with-swift)
+
+
+#### RxSwift
+1- [RxSwift: share()-ing is Caring](https://medium.com/gett-engineering/rxswift-share-ing-is-caring-341557714a2d)
