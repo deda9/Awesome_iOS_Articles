@@ -22,6 +22,7 @@
 
 4- [What is @autoclosure](https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis)
 
+5- [Logging with OSLog](https://www.lordcodes.com/posts/clear-and-searchable-logging-in-swift-with-oslog)
 
 #### Structures
 1- [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
