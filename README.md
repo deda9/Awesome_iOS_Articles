@@ -64,6 +64,8 @@
 
 6- [Improving Optionals](http://www.russbishop.net/improving-optionals)
 
+7- [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions)
+
 
 
 #### Background work
