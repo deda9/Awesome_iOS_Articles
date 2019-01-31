@@ -24,6 +24,8 @@
 
 5- [Logging with OSLog](https://www.lordcodes.com/posts/clear-and-searchable-logging-in-swift-with-oslog)
 
+6- [Custom `print` with `textoutputstream`](https://nshipster.com/textoutputstream)
+
 #### Structures
 1- [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
 
