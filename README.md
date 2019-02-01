@@ -8,6 +8,7 @@
 3- [Slot-based UI Views](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 
 
+
 #### UI Testing
 1- [Dynamic UI Testing HTTP Mocking](http://swiftpearls.com/dynamic-ui-testing-http-mocking.html)
 
@@ -26,6 +27,8 @@
 
 6- [Custom `print` with `textoutputstream`](https://nshipster.com/textoutputstream)
 
+
+
 #### Structures
 1- [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
 
@@ -37,6 +40,10 @@
 
 5- [Protocols with `:` and `==`](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
 
+6- [What's .self, .Type and .Protocol? ](https://swiftrocks.com/whats-type-and-self-swift-metatypes.html)
+
+
+
 #### Dependency Injection
 1- [Service Locator](https://quickbirdstudios.com/blog/swift-dependency-injection-service-locators)
 
@@ -45,6 +52,7 @@
 3- [Dependency Injection](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
 
 4- [Pure Dependency Injection](https://github.com/devxoul/Pure)
+
 
 
 #### Functional Programming
@@ -71,12 +79,15 @@
 8-[Clean Code video](https://www.youtube.com/watch?v=_qKlb7MbeKA)
 
 
+
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
 
+
 #### Commands Line
 1- [Writing custom tools with Swift](https://paul-samuels.com/blog/2019/01/12/writing-custom-tools-with-swift)
+
 
 
 #### RxSwift
