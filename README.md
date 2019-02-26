@@ -76,9 +76,9 @@
 
 7- [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions)
 
-8-[Clean Code video](https://www.youtube.com/watch?v=_qKlb7MbeKA)
+8- [Clean Code video](https://www.youtube.com/watch?v=_qKlb7MbeKA)
 
-
+9- [UIView style with function](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
