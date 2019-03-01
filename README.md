@@ -80,6 +80,8 @@
 
 9- [UIView style with function](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)
 
+10- [Elegant way to write weak self](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
+
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
