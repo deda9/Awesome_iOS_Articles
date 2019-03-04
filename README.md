@@ -27,6 +27,7 @@
 
 6- [Custom `print` with `textoutputstream`](https://nshipster.com/textoutputstream)
 
+7- [KeyPath](https://www.klundberg.com/blog/swift-4-keypaths-and-you)
 
 
 #### Structures
