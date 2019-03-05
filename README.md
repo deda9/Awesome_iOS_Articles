@@ -83,6 +83,10 @@
 
 10- [Elegant way to write weak self](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
 
+11- [Handling bad input with decodable](https://paul-samuels.com/blog/2019/03/03/handling-bad-input-with-decodable)
+
+
+
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
