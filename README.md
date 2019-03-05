@@ -85,6 +85,7 @@
 
 11- [Handling bad input with decodable](https://paul-samuels.com/blog/2019/03/03/handling-bad-input-with-decodable)
 
+12- [Nesting models](https://clean-swift.com/clean-swift-v2-better-models)
 
 
 #### Background work
