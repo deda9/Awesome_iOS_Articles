@@ -87,6 +87,8 @@
 
 12- [Nesting models](https://clean-swift.com/clean-swift-v2-better-models)
 
+13- [Awesome way to handle URL](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
