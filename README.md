@@ -89,7 +89,9 @@
 
 13- [Awesome way to handle URL](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
 
-14 -[Pattern matching operator](https://mecid.github.io/2019/03/20/pattern-matching-operator/)
+14- [Pattern matching operator](https://mecid.github.io/2019/03/20/pattern-matching-operator/)
+
+15- [Bindable design pattern](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
 
 
 #### Background work
