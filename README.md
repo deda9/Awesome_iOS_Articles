@@ -93,6 +93,8 @@
 
 15- [Bindable design pattern](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
 
+16- [Enum with unknown case](https://www.latenightswift.com/2019/02/04/unknown-enum-cases/)
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
