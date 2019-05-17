@@ -97,6 +97,7 @@
 
 16- [Enum with unknown case](https://www.latenightswift.com/2019/02/04/unknown-enum-cases/)
 
+17- [A/B Testing](https://heartbeat.fritz.ai/structuring-your-ios-app-for-split-testing-178eacf5aa7c)
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
