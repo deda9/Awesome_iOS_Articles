@@ -9,6 +9,8 @@
 
 4- [How to apply different Them into UIView](https://www.latenightswift.com/2018/04/26/implementing-night-mode)
 
+5- [UIView with style](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)
+
 
 
 #### UI Testing
