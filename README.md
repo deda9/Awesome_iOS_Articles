@@ -7,6 +7,8 @@
 
 3- [Slot-based UI Views](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 
+4- [How to apply different Them into UIView](https://www.latenightswift.com/2018/04/26/implementing-night-mode)
+
 
 
 #### UI Testing
