@@ -103,6 +103,8 @@
 
 18- [User Actions for UIViewController](https://www.swiftbysundell.com/posts/extracting-view-controller-actions-in-swift)
 
+19- [User `Never`](https://medium.com/connected/express-impossible-code-in-swift-with-never-db5b4d3f74a0)
+
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
