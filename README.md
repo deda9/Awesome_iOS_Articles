@@ -105,6 +105,7 @@
 
 19- [User `Never`](https://medium.com/connected/express-impossible-code-in-swift-with-never-db5b4d3f74a0)
 
+20- [How to use identifier with Models](https://medium.com/better-programming/better-swift-codable-models-through-composition-a6b109b7e8c7)
 
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
