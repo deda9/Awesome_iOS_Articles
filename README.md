@@ -33,6 +33,8 @@
 
 7- [KeyPath](https://www.klundberg.com/blog/swift-4-keypaths-and-you)
 
+8- [Use Autoreleasepool](https://swiftrocks.com/autoreleasepool-in-2019-swift.html)
+
 
 #### Structures
 1- [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
