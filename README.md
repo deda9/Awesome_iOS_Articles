@@ -113,8 +113,10 @@
 
 
 
-#### Commands Line
+#### Tools
 1- [Writing custom tools with Swift](https://paul-samuels.com/blog/2019/01/12/writing-custom-tools-with-swift)
+
+2-[Swift Formatting](https://nshipster.com/swift-format/)
 
 
 
