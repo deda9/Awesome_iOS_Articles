@@ -124,3 +124,6 @@
 
 #### RxSwift
 1- [RxSwift: share()-ing is Caring](https://medium.com/gett-engineering/rxswift-share-ing-is-caring-341557714a2d)
+
+### Swift 5.0
+1- [Property wrappers](https://www.avanderlee.com/swift/property-wrappers)
