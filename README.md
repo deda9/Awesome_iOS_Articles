@@ -68,6 +68,7 @@
 
 2- [Techniques for a Functional Dependency Injection in Swift](https://medium.com/@foolonhill/techniques-for-a-functional-dependency-injection-in-swift-b9a6143634ab)
 
+3- [Nested functions video](https://academy.realm.io/posts/altconf-saul-mora-object-orientated-functional-programming)
 
 #### Clean Code
 1- [Abstract third party libraries](https://benoitpasquier.com/abstract-ios-third-party-libraries)
