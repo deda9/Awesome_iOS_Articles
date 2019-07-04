@@ -111,6 +111,8 @@
 
 20- [How to use identifier with Models](https://medium.com/better-programming/better-swift-codable-models-through-composition-a6b109b7e8c7)
 
+21- [Readable code](https://academy.realm.io/posts/a-neatly-typed-message-improving-code-readability/)
+
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
