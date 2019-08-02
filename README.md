@@ -130,3 +130,7 @@
 
 ### Swift 5.0
 1- [Property wrappers](https://www.avanderlee.com/swift/property-wrappers)
+
+### Security 
+1- [Handle secret keys with different environments](https://thoughtbot.com/blog/let-s-setup-your-ios-environments) [Part2](https://www.lordcodes.com/posts/managing-secrets-within-an-ios-app)
+
