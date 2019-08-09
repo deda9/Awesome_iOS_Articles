@@ -113,6 +113,8 @@
 
 21- [Readable code](https://academy.realm.io/posts/a-neatly-typed-message-improving-code-readability/)
 
+22- [Rule-based logic in Swift](https://www.swiftbysundell.com/posts/rule-based-logic-in-swift)
+
 #### Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
