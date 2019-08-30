@@ -136,3 +136,5 @@
 ### Security 
 1- [Handle secret keys with different environments](https://thoughtbot.com/blog/let-s-setup-your-ios-environments) and [Part2](https://www.lordcodes.com/posts/managing-secrets-within-an-ios-app)
 
+### Tools
+1- [Control network bandwidth while testing](https://nshipster.com/network-link-conditioner)
