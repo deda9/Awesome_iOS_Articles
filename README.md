@@ -1,6 +1,6 @@
 # Awesome_iOS_Articles
 
-#### UIKit
+#### 1- UIKit
 1- [Restoring Your UI With State Restoration](https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration)
 
 2- [UIView layerClass, maskView and tintColor](https://www.iosdev.recipes/uiview/apis-you-forgot-layerclass-maskView-and-uitintadjustmentmode)
@@ -13,12 +13,12 @@
 
 
 
-#### UI Testing
+#### 2- UI Testing
 1- [Dynamic UI Testing HTTP Mocking](http://swiftpearls.com/dynamic-ui-testing-http-mocking.html)
 
 
 
-#### Foundation
+#### 3- Foundation
 1- [How to use NSSortDescriptor](https://nshipster.com/nssortdescriptor)
 
 2- [Dynamic Member Lookup](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
@@ -36,7 +36,7 @@
 8- [Use Autoreleasepool](https://swiftrocks.com/autoreleasepool-in-2019-swift.html)
 
 
-#### Structures
+#### 4- Structures
 1- [Using errors as control flow](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
 
 2- [POP Programming](https://developer.apple.com/videos/play/wwdc2016/419)
@@ -52,7 +52,7 @@
 7- [Modularize iOS Project](https://edit.theappbusiness.com/modular-ios-strangling-the-monolith-4a6843a28992)
 
 
-#### Dependency Injection
+#### 5- Dependency Injection
 1- [Service Locator](https://quickbirdstudios.com/blog/swift-dependency-injection-service-locators)
 
 2- [Service Locator](https://medium.com/@kenmarin_23370/dependency-injection-servicelocator-pattern-unit-testing-with-self-creating-mocks-in-swift-a303f4fc9f73)
@@ -63,14 +63,14 @@
 
 
 
-#### Functional Programming
+#### 6- Functional Programming
 1- [Sequence as head and tail](https://oleb.net/2018/sequence-head-tail/?utm_campaign)
 
 2- [Techniques for a Functional Dependency Injection in Swift](https://medium.com/@foolonhill/techniques-for-a-functional-dependency-injection-in-swift-b9a6143634ab)
 
 3- [Nested functions video](https://academy.realm.io/posts/altconf-saul-mora-object-orientated-functional-programming)
 
-#### Clean Code
+#### 7- Clean Code
 1- [Abstract third party libraries](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
 2- [Abstract event logger](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift)
@@ -115,26 +115,26 @@
 
 22- [Rule-based logic in Swift](https://www.swiftbysundell.com/posts/rule-based-logic-in-swift)
 
-#### Background work
+#### 8- Background work
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
 
 
 
-#### Tools
+#### 9- Tools
 1- [Writing custom tools with Swift](https://paul-samuels.com/blog/2019/01/12/writing-custom-tools-with-swift)
 
 2-[Swift Formatting](https://nshipster.com/swift-format/)
 
+3- [Control network bandwidth while testing](https://nshipster.com/network-link-conditioner)
 
 
-#### RxSwift
+#### 10- RxSwift
 1- [RxSwift: share()-ing is Caring](https://medium.com/gett-engineering/rxswift-share-ing-is-caring-341557714a2d)
 
-### Swift 5.0
+
+#### 11- Swift 5.0
 1- [Property wrappers](https://www.avanderlee.com/swift/property-wrappers)
 
-### Security 
-1- [Handle secret keys with different environments](https://thoughtbot.com/blog/let-s-setup-your-ios-environments) and [Part2](https://www.lordcodes.com/posts/managing-secrets-within-an-ios-app)
 
-### Tools
-1- [Control network bandwidth while testing](https://nshipster.com/network-link-conditioner)
+#### 12- Security 
+1- [Handle secret keys with different environments](https://thoughtbot.com/blog/let-s-setup-your-ios-environments) and [Part2](https://www.lordcodes.com/posts/managing-secrets-within-an-ios-app)
