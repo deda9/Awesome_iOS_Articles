@@ -136,6 +136,8 @@
 
 3- [Control network bandwidth while testing](https://nshipster.com/network-link-conditioner)
 
+4- [Optimize Swift build](https://medium.com/flawless-app-stories/optimize-swift-build-and-compile-times-in-xcode-8a212e2e7d86)
+
 
 ## 10- RxSwift
 
