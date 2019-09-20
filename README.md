@@ -12,6 +12,7 @@
 
 5- [UIView with style](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)
 
+6- [Load views from Xib](https://www.prolificinteractive.com/2017/06/09/xib-awakening-uniform-way-load-xibs/)
 
 
 ## 2- UI Testing
