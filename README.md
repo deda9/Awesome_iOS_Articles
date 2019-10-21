@@ -39,6 +39,8 @@
 
 8- [Use Autoreleasepool](https://swiftrocks.com/autoreleasepool-in-2019-swift.html)
 
+9- [Understanding the Standard Library Video](https://www.youtube.com/watch?v=wB-bi8_rSLs)
+
 
 ## 4- Structures
 
