@@ -156,3 +156,6 @@
 ## 12- Security 
 
 1- [Handle secret keys with different environments](https://thoughtbot.com/blog/let-s-setup-your-ios-environments) and [Part2](https://www.lordcodes.com/posts/managing-secrets-within-an-ios-app)
+
+## 13- Generic
+1- [Generic with composition and protocols](https://developer.apple.com/videos/play/wwdc2016/419/)
