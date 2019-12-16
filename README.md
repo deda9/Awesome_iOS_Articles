@@ -126,6 +126,8 @@
 
 22- [Rule-based logic in Swift](https://www.swiftbysundell.com/posts/rule-based-logic-in-swift)
 
+23- [Composition Design Pattern](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3)
+
 ## 8- Background work
 
 1- [Debouncing while app is in the background](https://benoitpasquier.com/abstract-ios-third-party-libraries)
