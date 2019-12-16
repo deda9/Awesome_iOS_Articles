@@ -14,6 +14,8 @@
 
 6- [Load views from Xib](https://www.prolificinteractive.com/2017/06/09/xib-awakening-uniform-way-load-xibs/)
 
+7- [Dynamic Layout iPhone&iPad](https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89)
+
 
 ## 2- UI Testing
 
