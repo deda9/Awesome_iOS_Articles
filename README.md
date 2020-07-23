@@ -44,6 +44,8 @@
 
 9- [Understanding the Standard Library Video](https://www.youtube.com/watch?v=wB-bi8_rSLs)
 
+10- [Powerful of global constant](https://www.jessesquires.com/blog/2020/07/16/swift-globals-and-static-members-are-atomic-and-lazily-computed)
+
 
 ## 4- Structures
 
