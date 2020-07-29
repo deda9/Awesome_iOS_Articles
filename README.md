@@ -176,4 +176,6 @@
 
 
 ## 15- [SwiftUI]
-- [Add custom swiftui view to view library](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library)
+1- [Add custom swiftui view to view library](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library)
+
+2- [SwiftUI Property Wrappers](https://swiftuipropertywrappers.com/)
