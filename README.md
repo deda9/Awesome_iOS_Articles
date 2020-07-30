@@ -179,3 +179,5 @@
 1- [Add custom swiftui view to view library](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library)
 
 2- [SwiftUI Property Wrappers](https://swiftuipropertywrappers.com/)
+
+3- [DI](https://medium.com/better-programming/taking-swift-dependency-injection-to-the-next-level-b71114c6a9c6)
