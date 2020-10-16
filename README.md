@@ -61,7 +61,7 @@
 
 6- [What's .self, .Type and .Protocol? ](https://swiftrocks.com/whats-type-and-self-swift-metatypes.html)
 
-7- [Modularize iOS Project](https://edit.theappbusiness.com/modular-ios-strangling-the-monolith-4a6843a28992)
+7- [Modularize iOS Project](https://medium.com/kinandcartacreated/modular-ios-strangling-the-monolith-4a6843a28992)
 
 
 ## 5- Dependency Injection
